@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://anser-frontend-v02.netlify.app",
 
   uTagName: "Building Bridges, Creating Values",
+
+  vMainApplication: "Anser Application",
+  vFrontendApplication: "Anser Application (Frontend)",
+  vAdminApplication: "Anser Application (Admin)",
+  vBackendApplication: "Anser Application (Backend)",
 }
 
 export default brandConnection;
